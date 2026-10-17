@@ -63,7 +63,7 @@ Optionally, you can also include rounded icons:
 See [LICENSE.md](LICENSE.md)
 
 ## Credits 
-All credits go to [Nakki](https://github.com/MaiRiosIPla) for the original theme
+All credits go to [Nakki](https://github.com/MaiRiosIPla) for the original [UnShittify Discord](https://github.com/MaiRiosIPla/unshittify-discord) theme
 and to [@nspc911](https://github.com/nspc911) for the [Refreshed Seamless Chat Bar](https://github.com/NSPC911/themes/blob/main/vencord/RefreshedSeamlessChatBar.theme.css), Provided under the following license:
 
 ```
