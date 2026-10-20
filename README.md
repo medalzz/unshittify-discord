@@ -6,14 +6,14 @@ made as a backup.
 
 ## Installation (Vencord/BetterDiscord/Browser)
 
-### Option 1: Download Importer (Auto Update)
+### Option 1: Download Importer
 
 Download [UnShittify.theme.css](UnShittify.theme.css) or [UnShittifyRounded.theme.css](UnShittifyRounded.theme.css) and add it to your themes folder.
 
 > [!NOTE]  
 > You will NOT need both themes for rounded icons.
 
-### Option 2: Online Themes (Auto Update, no settings available)
+### Option 2: Online Themes
 
 Add the following line to your "Online Themes" imports:
 
