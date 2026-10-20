@@ -1,14 +1,6 @@
 # UnShittify Discord
 This is a fork of the original [UnShittify Discord](https://github.com/MaiRiosIPla/unshittify-discord)
-
-By [@nak.kiwi](https://instagram.com/nak.kiwi) (You can call me Nakki, feel free visit wy cozy website at nak.kiwi) :3
-
-**Disclaimer:** This is a discord unoficcial theme, it is not affiliated with Discord in any way.
-If you are discord and wish for this to be taken down, please message me at hello@nak.kiwi
-
-- [Installation](#installation)
-- [Use to Create Other Themes](#use-to-create-other-themes)
-- [License](#license)
+made as a backup.
 
 ---
 
