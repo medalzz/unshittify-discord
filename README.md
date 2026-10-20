@@ -6,6 +6,9 @@ made as a backup.
 
 ## Installation (Vencord/BetterDiscord/Browser)
 
+> [!NOTE]  
+> Both options will auto update when new changes are made.
+
 ### Option 1: Download Importer
 
 Download [UnShittify.theme.css](UnShittify.theme.css) or [UnShittifyRounded.theme.css](UnShittifyRounded.theme.css) and add it to your themes folder.
