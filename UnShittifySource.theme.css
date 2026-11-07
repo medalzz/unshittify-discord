@@ -43,10 +43,11 @@ If you are discord and wish for this to be taken down, please message me at hell
 	--rscb-no-jump-chat: 0;
 }
 
-/* User modal */
+/* Shrink user modal */
 .visual-refresh .panels_c48ade,
 .visual-refresh .panels__5e434,
-.visual-refresh ._5e434347c823b592-panels{
+.visual-refresh ._5e434347c823b592-panels,
+.visual-refresh .panels_pog62O {
 	right: var(--space-xs) !important;
 	left: auto;
 	bottom: var(--space-xs);
@@ -157,7 +158,9 @@ If you are discord and wish for this to be taken down, please message me at hell
 .ef3116c2da186559-wrapper {
 	height: calc(100% - 1rem);
 }
-.visual-refresh .guilds_c48ade, .visual-refresh .wrapper_ef3116 {
+.visual-refresh .guilds_c48ade, 
+.visual-refresh .wrapper_ef3116,
+.visual-refresh .wrapper_5dqHTG {
 	margin-bottom: 0;
 }
 
