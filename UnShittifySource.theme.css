@@ -111,9 +111,10 @@ If you are discord and wish for this to be taken down, please message me at hell
 	display: none !important;
 }
 
-/* Make top icons not overlap bar icons*/
+/* Make window decorations not overlap search bar*/
 .container__9293f,
-._9293f6b2fc12398a-upperContainer {
+._9293f6b2fc12398a-upperContainer,
+.upperContainer_ybUK7Z {
 	padding-right: var(--top-bar-padding) !important;
 	/* overflow: hidden !important; */
 }
