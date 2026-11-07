@@ -58,14 +58,16 @@ If you are discord and wish for this to be taken down, please message me at hell
 /* Remove top row */
 .visual-refresh .base_c48ade,
 .visual-refresh .base__5e434,
-.visual-refresh ._5e434347c823b592-base{
+.visual-refresh ._5e434347c823b592-base,
+.visual-refresh .base_pog62O  {
 	grid-template-rows: [top] 0 [titleBarEnd] min-content [noticeEnd] 1fr [end];
 }
 
 
 /* Top bar and dragging functionality */
 .trailing_c38106,
-.c38106a3f0c3ca76-trailing {
+.c38106a3f0c3ca76-trailing,
+.trailing_3zSH5d {
 	gap: 2px;
 
 	/* margin-left: calc(var(--custom-guild-list-width) + var(--space-8)); */
@@ -94,7 +96,8 @@ If you are discord and wish for this to be taken down, please message me at hell
 	z-index: -1 !important;
 }
 .bar_c38106,
-._5e434347c823b592-base .c38106a3f0c3ca76-bar {
+._5e434347c823b592-base .c38106a3f0c3ca76-bar,
+.base_pog62O .bar_3zSH5d {
 	margin-left: var(--custom-guild-sidebar-width);
 	height: 20px;
 	min-height: unset !important;
@@ -103,7 +106,8 @@ If you are discord and wish for this to be taken down, please message me at hell
 /* Hide bar title */
 .title__85643,
 .title_c38106,
-.c38106a3f0c3ca76-title {
+.c38106a3f0c3ca76-title,
+.title_3zSH5d {
 	display: none !important;
 }
 
