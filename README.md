@@ -13,7 +13,6 @@ made as a backup.
 
 Download [UnShittify.theme.css](UnShittify.theme.css) or [UnShittifyRounded.theme.css](UnShittifyRounded.theme.css) and add it to your themes folder.
 
-> [!NOTE]  
 > You will NOT need both themes for rounded icons.
 
 ### Option 2: Online Themes
@@ -30,7 +29,6 @@ And the following for rounded icons:
 https://medalzz.github.io/unshittify-discord/RoundIconsSource.theme.css
 ```
 
-> [!NOTE]  
 > You WILL need both themes for rounded icons.
 
 ---
